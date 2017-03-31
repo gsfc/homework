@@ -1,0 +1,12 @@
+{
+  "name": "Employee_Tool",
+  "version": "v0.0.0",
+  "description": "Build a tool that will manage employees",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.15.2",
+    "body-parser": "^1.17.1"
+  }
+}
