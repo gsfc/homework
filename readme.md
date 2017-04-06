@@ -15,7 +15,6 @@
 - Target Skills: Front-End
 - Estimated Completion: 2-4 hours 
 
-
 ## Tree Builder
 - You will **fetch** data from a local server, **convert** this data into a `tree structure`, and **plug** the data into `jsTree`
 - Target Skills: Data Structures and Algorithms 
@@ -25,9 +24,5 @@
 
 ## \*\*Submitting
 - First, **zip** your code (i.e. `employee_tool.zip`)
-- Upload using [OneDrive](https://opendrive.gsfc.nasa.gov)
-	- **Attach** your zip file
-	- Choose **short-term** 
-	- Click the **upload** button
-- **Copy the URL**
-- Lastly, **email** the **URL** with **your name** to jamil.j.shehadeh@nasa.gov
+- Upload using **DropBox** ([install](https://www.dropbox.com/en/help/243)) and **Copy Link** ([how to copy link](https://www.dropbox.com/help/167))
+- Lastly, **email** the **Link** with **your name** to jamil.j.shehadeh@nasa.gov
