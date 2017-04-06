@@ -23,6 +23,6 @@
 
 
 ## \*\*Submitting
-- First, **zip** your code (i.e. `employee_tool.zip`)
-- Upload using [**DropBox**](https://www.dropbox.com/en/help/243) and [**Copy Link**](https://www.dropbox.com/help/167)
-- Lastly, **email** the **Link** with **your name** to jamil.j.shehadeh@nasa.gov
+- **Zip** your code (i.e. `employee_tool.zip`)
+- **Upload** using [**DropBox**](https://www.dropbox.com/en/help/243)
+- [**Share**](https://www.dropbox.com/help/167) the DropBox link with jamil.j.shehadeh@nasa.gov (be sure to include **your name**)
