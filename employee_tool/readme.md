@@ -32,4 +32,6 @@ If you do not have node install you can download [Node](https://nodejs.org/en/do
 
 ## Notes
 - All your code will be under the `src/` directory
+- Set your content-type request header to `"application/json"`
+- The server's response will be `"json"`
 - Feel free to use any libs you may need
