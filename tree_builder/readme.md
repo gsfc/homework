@@ -13,8 +13,8 @@ If you do not have node install you can download [Node](https://nodejs.org/en/do
 
 ## Your Job 
 - `GET` the data at http://localhost:8080/data 
-- Convert server data into a **tree structure** (see example.js)
-- Render tree with `$( '#jstree' ).jstree({ 'core': { 'data': treeStruct } });`
+- Convert server data into a **Tree Data Structure** 
+- Render tree with [jsTree](https://www.jstree.com/) `$( '#jstree' ).jstree({ 'core': { 'data': treeStruct } });`
 
 
 ## Getting Setup
