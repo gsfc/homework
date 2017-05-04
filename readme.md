@@ -25,4 +25,4 @@
 ## \*\*Submitting
 - **Zip** your code (i.e. `employee_tool.zip`)
 - **Upload** using [**DropBox**](https://www.dropbox.com/en/help/243)
-- [**Share**](https://www.dropbox.com/help/167) the DropBox link with jamil.j.shehadeh@nasa.gov (be sure to include **your name**)
+- [**Send**](https://www.dropbox.com/help/167) the link to jamil.j.shehadeh@nasa.gov (be sure to include **your name**)
