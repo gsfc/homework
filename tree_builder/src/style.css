@@ -1,0 +1,32 @@
+#tree {
+	margin-left: 10px;
+}
+
+
+.node {
+	margin: 10px 0;
+}
+
+.node > .text {
+}
+
+.node > .expand {
+	color: #c5c5c5;
+	text-decoration: none;
+}
+
+.node > .expand.hasChidren {
+	color: green;
+}
+
+.node.expand > .expand.hasChidren {
+	color: red;
+}
+
+.node > .children {
+	display: none;
+}
+
+.node.expand > .children {
+	display: block;
+}

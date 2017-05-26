@@ -14,7 +14,7 @@ If you do not have node install you can download [Node](https://nodejs.org/en/do
 ## Your Job 
 - `GET` the data at http://localhost:8080/data 
 - Convert server data into a **Tree Data Structure** 
-- Render tree with `$( '#jstree' ).jstree({ 'core': { 'data': [tree-node(s)] } });`
+- Render tree with `renderTree( [tree-node(s)] );`
 
 
 ## Getting Setup
@@ -25,6 +25,7 @@ If you do not have node install you can download [Node](https://nodejs.org/en/do
 
 
 ## Notes
-- All your code will be written the in `src/index.html` file
+- All your code will be written the in `src/code.js` file
 - Each node in your tree will be in the form `{ id: "id", text: "text", children: [] }` 
-- The data for `jstree` is expecting an `array` which contains your tree node(s)
+- To see a finished tree run `exampleTree()`
+- To check you data structure is in the correct format run `testTree( [tree-node(s)] )`
